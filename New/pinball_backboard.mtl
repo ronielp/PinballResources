@@ -1,0 +1,82 @@
+# Blender MTL File: 'pinball_backboard.blend'
+# Material Count: 8
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\wood_texture.jpg
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\aluminum.jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\aluminum.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\black_screen.jpg
+
+newmtl Material.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\black_screen.jpg
+
+newmtl Material.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\speaker_grill.jpg
+
+newmtl Material.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\speaker_grill.jpg
+
+newmtl Material.008
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \\ecc.engr.unr.edu\users\rpadua\Downloads\aluminum.jpg
